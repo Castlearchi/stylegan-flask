@@ -1,4 +1,4 @@
-<h1>Flask + Pytorch</h1>
+<h1>Flask + Pytorch + StyleGan</h1>
 
 ![image](./Sample.gif)
 
