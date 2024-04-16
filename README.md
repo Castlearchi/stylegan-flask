@@ -6,6 +6,7 @@
 <h2>Install</h2>
 
 ```
+git clone https://github.com/Castlearchi/stylegan-flask
 pip install -r requirements.txt
 ```
 
